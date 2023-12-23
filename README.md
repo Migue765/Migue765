@@ -66,4 +66,3 @@ const migue = {
 </p>
 
 <img align='right' src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGNxZnIzODlrNzlpYTJiOWphcHRjcXd2azRuY2RoYXd1YTk2dzdvZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dyjrpqaUVqCELGuQVr/giphy.gif">
----
