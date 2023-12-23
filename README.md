@@ -10,15 +10,15 @@
 const migue = {
     pronouns: "He" | "Him",
     code: ["Javascript", "C", "C++", "Python", "CSS", "HTML", "php", "Deluge"],
-    askMeAbout: ["web dev", "engineer", "electronic designer", "3D Modeler"],
+    askMeAbout: ["web dev", "engineer", "data scientist", "3D Modeler"],
     technologies: {
-        mobileApp: ["Android App"],
         frontEnd: {
             js: ["Angular", "React"],
             css: ["materialize", "vuetify", "bootstrap"]
         },
         backEnd: {
-            python: ["flask"]
+            python: ["flask"],
+            javascript: ["nodejs"]
         },
         devOps: ["Docker🐳"],
         databases: ["MySql"],
