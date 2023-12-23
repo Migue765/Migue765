@@ -65,5 +65,5 @@ const migue = {
 <a href="https://github.com/miguel637"><img src="https://img.shields.io/badge/github-black.svg?style=for-the-badge&logo=github&logoColor=black&labelColor=ffffff" alt="github"></a>
 </p>
 
-<img align='right' src="<img align='right' src="https://media1.giphy.com/media/ZXkraFrlIW1D25M6ZJ/giphy.gif?cid=ecf05e47ylrdpwepmd8139petww7muik68shbh9cf69qdyur&rid=giphy.gif&ct=g" width="230">" width="230">
+<img align='right' src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGNxZnIzODlrNzlpYTJiOWphcHRjcXd2azRuY2RoYXd1YTk2dzdvZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dyjrpqaUVqCELGuQVr/giphy.gif">
 ---
