@@ -64,6 +64,3 @@ const migue = {
 <a href="https://github.com/miguel637"><img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=F05032&labelColor=ffffff" alt="git"></a>
 <a href="https://github.com/miguel637"><img src="https://img.shields.io/badge/github-black.svg?style=for-the-badge&logo=github&logoColor=black&labelColor=ffffff" alt="github"></a>
 </p>
-<p align="center">
-<img align='center' src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGNxZnIzODlrNzlpYTJiOWphcHRjcXd2azRuY2RoYXd1YTk2dzdvZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dyjrpqaUVqCELGuQVr/giphy.gif">
-</p>
