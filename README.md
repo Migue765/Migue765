@@ -8,12 +8,12 @@
 
 ```javascript
 const migue = {
-    pronouns: "He" | "Him",
-    code: ["Javascript", "C", "C++", "Python", "CSS", "HTML", "php", "Deluge"],
-    askMeAbout: ["web dev", "engineer", "data scientist", "3D Modeler"],
+    nikname: "Kinua765",
+    code: ["Javascript", "Python", "Go", "C", "C++", , "CSS", "HTML",  "Deluge"],
+    askMeAbout: ["Backend developer", "data scientist", "Frondend developer", "Mechatronic Engineer"],
     technologies: {
         frontEnd: {
-            js: ["Angular", "React"],
+            frameworks: ["Angular", "React"],
             css: ["materialize", "vuetify", "bootstrap"]
         },
         backEnd: {
