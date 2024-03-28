@@ -40,7 +40,7 @@ const migue = {
 
 <p align="center">					    
 <a href="https://github.com/miguel637"><img src="https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=ffffff" alt="react"></a>
-<a href="https://github.com/miguel637"><img src="https://img.shields.io/badge/React Native-3aabe8.svg?style=for-the-badge&logo=react&logoColor=3aabe8&labelColor=ffffff" alt="Angular"></a>
+<a href="https://github.com/miguel637"><img src="https://img.shields.io/badge/angular Native-3aabe8.svg?style=for-the-badge&logo=react&logoColor=3aabe8&labelColor=ffffff" alt="Angular"></a>
 </p>
 
 <p align="center">
