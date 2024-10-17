@@ -13,7 +13,7 @@ const migue = {
     askMeAbout: ["Backend developer", "data scientist", "Frondend developer", "Mechatronic Engineer"],
     technologies: {
         frontEnd: {
-            frameworks: ["Angular", "React"],
+            frameworks: ["Angular", "Vue"],
             css: ["materialize", "vuetify", "bootstrap"]
         },
         backEnd: {
